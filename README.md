@@ -7,6 +7,8 @@ The purpose of this website is to create a platform where individuals can connec
 - [https://petopia-f7bab.web.app/](https://petopia-f7bab.web.app/)
 - [https://petopia-f7bab.firebaseapp.com/](https://petopia-f7bab.firebaseapp.com/)
 
+### Project's Docs
+-  [https://docs.google.com/document/d/1XMDfnfDngCbYNdrX2zE-lsYkZSsEmF3xxCr7C1jY_K8/edit?tab=t.0](https://docs.google.com/document/d/1XMDfnfDngCbYNdrX2zE-lsYkZSsEmF3xxCr7C1jY_K8/edit?tab=t.0)
 
 ### Key Features:
 - ***Adopt Pets:*** Users can browse a variety of pets available for adoption and find their perfect companion.
